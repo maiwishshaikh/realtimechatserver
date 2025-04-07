@@ -1,0 +1,26 @@
+{
+  "name": "realtimechatserver",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maiwishshaikh/realtimechatserver.git"
+  },
+  "keywords": [
+    "internproject"
+  ],
+  "author": "maiwish shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maiwishshaikh/realtimechatserver/issues"
+  },
+  "homepage": "https://github.com/maiwishshaikh/realtimechatserver#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
